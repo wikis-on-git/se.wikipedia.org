@@ -1,39 +1,31 @@
-{| border="1" cellpadding="2" cellspacing="0" align="right" width="300px"
-|+<font size="+1">Suomen tasavalta<br>Republiken Finland</font>
-|-
-| style="background:#efefef;" align="center" colspan="2" |
-{| border="0" cellpadding="2" cellspacing="0"
-[[Image:Flag of Finland.svg|125px|Suoma leavga]][[Image:Coat of arms of Finland.svg|80px|Suoma vearjogovva]]<br>[[Suoma leavga]]            [[Suoma vearjogovva]]
-|}
-|-
-| align="center" colspan=2 style="border-bottom:3px solid gray;" | <font size="-1">''[[Našunalbáimmaldat]]: ii leat''</font>
-|-
-| align=center colspan=2 | [[Image:LocationFinland.png|250px|Suoma lokašuvdna]]
-|-
-| [[Almmolaš giella]] || [[suomagiella]], [[ruoŧagiella]]
-|-
-| [[Oaivegávpot]] || [[Helsset]]
-|-
-| Presideanta || [[Tarja Halonen]]
-|-
-| Oaiveministtar || [[Matti Vanhanen]]
-|-
-| [[Viidodat]]<br>&nbsp;- Oktibuot <br>&nbsp;- % čáhci || <br> 337,030 [[njealjehaskilomehter|km&sup2;]] <br> 9,4%
-|-
-| [[Olmmošlohku]] <br>&nbsp;- Oktibuot ([[2004]]) <br>&nbsp;- [[Olmmošlohkučoahkkisvuohta|Čoahkkisvuohta]] || <br> 5 236 100<br> 17,1/km&sup2;
-|-
-| [[Iehčanasvuohta]]<br>&nbsp;- Beaivi
-||  <br>[[Juovlamánu 6.]] b. [[1917]]
-|-
-| [[Ruhta]] || [[Euro]]
-|-
-| [[Áigeavádat]] || [[UTC]] +2 (Geasseáigi +3)
-|-
-| [[Našunallávlla]] || [[Maamme]]
-|-
-| [[Interneahtta-TLD]] || .fi
-|}
-[[image:Fi-map.jpg|100px|thumb|Suoma kárta]]
+{{Riika
+ | adjektiiva        = suoma
+ | namma             = Suoma dásseváldi<br>Suomen tasavalta<br>Republiken Finland
+ | leavga            = Flag of Finland.svg
+ | verjogovva        = Coat of arms of Finland.svg
+ | leavga-artihkkala = Suoma leavga
+ | verjogovva-artihkkala = Suoma vearjogovva
+ | našunallávlla     = [[Maamme]]
+ | našunalbáimmaldat = ii leat
+ | geográfalašsadji  = Europe location FIN.png
+ | virggálaš giella  = [[suomagiella]], [[ruoŧagiella]]
+ | oaivegávpot       = [[Helsset]]
+ | gonagas           =
+ | presideanta       = [[Tarja Halonen]]
+ | oaiveministtar    = [[Matti Vanhanen]]
+ | viidodat          = 337,030
+ | čáhci             = 9,4
+ | olmmošlohku       = 5 236 100
+ | olmmošlohku-jahki = 2004
+ | čoahkkisvuohta    = 17,1
+ | iehčanasvuohta    = [[Juovlamánu 6.]] b. [[1917]]
+ | iehčanasvuođa dáhpáhusat =
+ | ruhta             = [[Euro]]
+ | áigeavádat        = UTC +2 (Geasseáigi +3)
+ | telefonkoda       = 358
+ | tld               = [[.fi]]
+ }}
+[[File:Fi-map.jpg|100px|thumb|Suoma kárta]]
 
 '''Suopma''' dahjege '''Suoma dásseváldi''' ([[suomagiella|suomagillii]] ''Suomi'', ''Suomen tasavalta'', [[ruoŧagiella|ruoŧagillii]] ''Finland'', ''Republiken Finland'') lea iehčanas [[dásseváldi]] [[Eurohpá]]s, [[Nuortamearra|Nuortameara]] [[almmiguovllut|nuortadavabealde]]. 
 Suoma rádjeriikkat leat [[Ruoŧŧa]] [[almmiguovllut|oarjin]], [[Norga]] [[almmiguovllut|davvin]], [[Ruošša]] [[almmiguovllut|nuortin]] ja [[Suomaluokta|Suomaluovtta]] lulabealde [[Estlánda|Estteeana]]. [[Ålánda]] lea  demilitariserejuvvon autonomalaš eanangoddi, mii gullá Supmii.
@@ -53,7 +45,7 @@ Metállagálvvui Suomas álge geavahit s. 1500 oKr. Oktasaččat jurddašit ahte
 
 
 == Báikkálašhálddaseapmi ==
-[[Image:Map of Finland with provinces (numbered).png|thumb|left|Suoma leanat]]
+[[File:Map of Finland with provinces (numbered).png|thumb|left|Suoma leanat]]
 Stáhta guovlohálddaseami dihte Suopma lea juhkojuvvon leanaide, mat leat dál guhta (6). 
 
 1. [[Lulli-Suoma leatna]]
@@ -68,8 +60,8 @@ Stáhta guovlohálddaseami dihte Suopma lea juhkojuvvon leanaide, mat leat dál 
 
 6. [[Ålánda|Ålándda leatna]] lea stáhta guovddášhálddáhusa orgánisašuvdna autonomalaš Ålándda eanangottis.
 
-[[Image:Helsinki Cathedral in July 2004.jpg|thumb|230px|[[Helsset]]]]
-[[Image:Flag of Finland.svg|thumb|230px|[[Suoma leavga]]]]
+[[File:Helsinki Cathedral in July 2004.jpg|thumb|230px|[[Helsset]]]]
+[[File:Flag of Finland.svg|thumb|230px|[[Suoma leavga]]]]
 
 
 Dálá leatnajuohku lea leamašan ánus jagi [[1997]] rájes, goas dáhpáhuvai leatnaođastus. Boares leanat ledje oktiibuot 11 + Ålándda eanangoddi. Leatnahálddahusas ii leat válggain váljjejuvvon ovddasteaddjit. Stáhta báikkálašhálddaseami dihte leanat leat juhkojuvvon 90 gihligottái.
