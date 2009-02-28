@@ -1,45 +1,34 @@
-{| border="1" cellpadding="2" cellspacing="0" align="right" width="300px"
-|+<font size="+1">Konungariket Sverige</font>
-|-
-| style="background:#efefef;" align="center" colspan="2" |
-{| border="0" cellpadding="2" cellspacing="0"
-|[[Image:Flag of Sweden.svg|125px]] [[Image:Coat of Arms of Sweden.svg|85px]]
-|}
-|-
-| align="center" colspan=2 style="border-bottom:3px solid gray;" | <font size="-1">''Gonagaslašdajaldat: För Sverige i tiden''</font>
-|-
-| align=center colspan=2 | [[Image:LocationSweden.png|250px]]
-|-
-| [[Virggálaš giella]] || [[ruoŧagiella]]
-|-
-| [[Oaivegávpot]] || [[Stockholbma]]
-|-
-| Gonagas || [[Carl XVI Gustaf]]
-|-
-| Oaiveministtar || [[Fredrik Reinfeldt]]
-|-
-| [[Viidodat]]<br>&nbsp;- Oktibuot <br>&nbsp;- % čáhci || <br> 449 964 [[njealjehaskilomehter|km&sup2;]] <br> 8,67%
-|-
-| [[Olmmošlohku]] <br>&nbsp;- Oktibuot ([[2003]]) <br>&nbsp;- [[Olmmošlohkučoahkkisvuohta|Čoahkkisvuohta]] || <br> 9 012 105<br> 21,9/km&sup2;
-|-
-| [[Nationálabeaivi]]
-||  [[Geassemánu 6.]] b.
-|-
-| [[Ruhta]] || Ruoŧa kruvdno (SEK)
-|-
-| [[Áigeavádat]] || [[UTC]] +1 (Geasseáigi +2)
-|-
-| [[Našunallávlla]] || [[Du gamla, du fria]]
-|-
-| [[Interneahtta-TLD]] || .se
-|}
-
-
+{{Riika
+ | adjektiiva        = ruoŧa
+ | namma             = Ruoŧŧa<br>Konungariket Sverige
+ | leavga            = Flag of Sweden.svg
+ | verjogovva        = Coat of Arms of Sweden.svg
+ | leavga-artihkkala = Ruoŧa leavga
+ | verjogovva-artihkkala = Ruoŧa vearjogovva
+ | našunallávlla     = [[Du gamla, du fria]]
+ | našunalbáimmaldat = För Sverige i tiden
+ | geográfalašsadji  = Europe location SWE.png
+ | virggálaš giella  = [[ruoŧagiella]]
+ | oaivegávpot       = [[Stockholbma]]
+ | gonagas           = [[Carl XVI Gustaf]]
+ | presideanta       = 
+ | oaiveministtar    = [[Fredrik Reinfeldt]]
+ | viidodat          = 449 964
+ | čáhci             = 8,67
+ | olmmošlohku       = 9 012 105
+ | olmmošlohku-jahki = 2003
+ | čoahkkisvuohta    = 21,9
+ | iehčanasvuohta    = 
+ | iehčanasvuođa dáhpáhusat =
+ | ruhta             = [[Ruoŧa kruvdno]]
+ | áigeavádat        = UTC +2 (Geasseáigi +3)
+ | telefonkoda       = 46
+ | tld               = [[.se]]
+ }}
 '''Ruoŧŧa''' ([[ruoŧagiella|ruoŧagillii]] ''Sverige'') lea riika [[Eurohpá]]s. Dan rádjeriikkat leat [[Suopma]] ja [[Norga]]. Ruoŧa oaivegávpot lea [[Stockholbma]].
 
-
 == [[Ruoŧa leanat]] ==
-[[Image:Sweden counties.png|frame|left|Ruoŧa leanat]]
+[[File:Sweden counties.png|frame|left|Ruoŧa leanat]]
 
 *A - [[Stockholmma leatna]]
 *C - [[Uppsala leatna]]
@@ -65,7 +54,8 @@
 
 == Geahča maid ==
 * [[Máilmmi riikkat]]
-*[[Gieldat Ruoŧas]]
+* [[Gieldat Ruoŧas]]
+
 {{EU}}
 {{Eurohpá}}
 
