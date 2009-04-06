@@ -4,13 +4,13 @@
 | style="background:#efefef;" align="center" colspan="2" |
 {| border="0" cellpadding="2" cellspacing="0"
 |-
-| align="center" width="130px" | [[Image:Flag of Spain.svg|125px|]] || align="center" width="130px" rowspan="2" height="140px" | [[Image:Escudo de España.png|125px]]
+| align="center" width="130px" | [[File:Flag of Spain.svg|125px|]] || align="center" width="130px" rowspan="2" height="140px" | [[File:Escudo de España.png|125px]]
 |-
 |}
 |-
 | align="center" colspan=2 style="border-bottom:3px solid gray;" | <font size="-1">''[[Našunalbáimmaldat]]: -''</font>
 |-
-| align=center colspan=2 | [[Image:LocationSpain.png|thumb|300px]]
+| align=center colspan=2 | [[File:LocationSpain.png|thumb|300px]]
 |-
 | [[Virggálašgiella]] || [[Spánskagiella]], [[katalánagiella]], [[galegogiella]] ja [[baskigiella]]
 |-
@@ -20,12 +20,12 @@
 |-
 | [[Spánia oaiveministtar|Oaiveministtar]] || [[José Luis Rodríguez Zapatero]]
 |-
-| [[Viidodat]]<br>&nbsp;- Oktibuot <br>&nbsp;- % čáhci || <br> 504 782 [[njealjehaskilomehter|km&sup2;]] <br> 1,04%
+| [[Viidodat]]<br />&nbsp;- Oktibuot <br />&nbsp;- % čáhci || <br /> 504 782 [[njealjehaskilomehter|km&sup2;]] <br /> 1,04%
 |-
-| [[Olmmošlohku]] <br>&nbsp;- Oktibuot ([[2004]]) <br>&nbsp;- [[Olmmošlohkučoahkkisvuohta|Čoahkkisvuohta]] || <br> 43 197 684 <br> 85/km&sup2;
+| [[Olmmošlohku]] <br />&nbsp;- Oktibuot ([[2004]]) <br />&nbsp;- [[Olmmošlohkučoahkkisvuohta|Čoahkkisvuohta]] || <br /> 43 197 684 <br /> 85/km&sup2;
 |-
-| [[Iehčanasvuohta]]<br>&nbsp;- Ovttastuvvui
-||  <br>[[1512]]
+| [[Iehčanasvuohta]]<br />&nbsp;- Ovttastuvvui
+|| <br />[[1512]]
 |-
 | [[Ruhta]] || [[Euro]]
 |-
@@ -44,13 +44,12 @@
 {{EU}}
 {{Eurohpá}}
 {{NATO}}
- 
+{{Link FA|ia}}
+{{Link FA|vi}}
+
 [[Category:Spánia| ]]
 [[Category:Eurohpá riikkat]]
 [[Category:NATO]]
-
-{{Link FA|ia}}
-{{Link FA|vi}}
 
 [[af:Spanje]]
 [[als:Spanien]]
@@ -181,6 +180,7 @@
 [[oc:Espanha]]
 [[os:Испани]]
 [[pam:Espanya]]
+[[pdc:Schpaani]]
 [[pih:Spain]]
 [[pl:Hiszpania]]
 [[pms:Spagna]]
