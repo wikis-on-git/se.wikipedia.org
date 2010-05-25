@@ -1,0 +1,82 @@
+[[File:Space Invaders cabinet at Lyme Regis.jpg|thumb|200px|Space Invaders - speallanautomáhta – japánalaš veršuvdna]]
+[[File:Space Invaders.JPG|left|thumb|Space Invadersa "beavdiveršuvdna"]]
+'''Space Invaders''' lea [[arkádaspeallu]], man [[Toshihiro Nishikado]] lea ráhkadan.  Speallu almmuhuvvui jagis [[1978]]. <!--Sitä valmisti [[Taito (yhtiö)|Taito Corporation]] ja myöhemmin lisenssillä Yhdysvalloissa Bally Midway. Japanissa julkaistua Space Invadersia pidetään yhtenä kaikkien aikojen merkittävimmistä [[videopeli|videopeleistä]]. Vaikkakin peli on nykystandardeilla mitaten alkeellinen, se oli (esimerkiksi [[Pac-Man]]in ja [[Breakout]]in ohella) eräs modernin videopelin uranuurtajista.
+
+==Peli-idea==
+Pelaaja liikuttelee ruudun alalaidassa olevaa lasertykkiä vasemmalle ja oikealle ampuen yläpuolelta rivimuodostelmassa lähestyviä avaruusolentoja. Viholliset "marssivat" edestakaisin ja jokaisen käännöksen yhteydessä siirtyvät hieman alaspäin. Tehtävänä on tuhota niin paljon vihollisia kuin mahdollista väistellen samalla niiden ampumia säteitä ja pommeja, joiden osumasta lasertykki tuhoutuu. Jos lasertykki tuhoutuu kolme kertaa, tai yksikin avaruusolioista pääsee ruudun alalaitaan saakka, peli loppuu. Silloin tällöin ruudun yläreunaan ilmestyy bonus-avaruusalus, jonka tuhoamisesta saa lisäpisteitä.
+
+Sitä mukaa, kun pelaaja tuhoaa vihollisia, ne nopeuttavat liikkumistaan, kunnes ruudulla on vain yksi nopeasti liikkuva avaruusolio. Kun se on tuhottu, tulee ruutuun uusi muodostelma vihollisia, joka aloittaa "marssimisen" yhtä riviä alempaa kuin edellinen erä. Pelaajan lasertykin yläpuolella on neljä suojakilpeä. Niiden taakse voi suojautua vihollisen ammuksilta; kilvet kuitenkin tuhoutuvat pikkuhiljaa osumista.
+
+Videopelejä oli olemassa jo ennen ''Space Invaders''ia, ja sen julkaisuaikaan esimerkiksi [[Atari]]n [[Pong]]-peli oli muutaman vuoden vanha. ''Space Invaders'' vangitsi kuitenkin yleisön mielenkiinnon tavalla, jollaista tuskin koskaan on pelien historiassa nähty. Sen [[science fiction]] -toiminta ja futuristinen ulkonäkö vetosivat [[Star Wars]] -huumaa elävään yleisöön. Pelin konseptissa oli myös ripaus  kauhua, sillä se heitti pelaajan epätoivoiseen taisteluun maailman pelastamiseksi ulkoavaruuden tunkeutujilta - taisteluun, jonka pelaaja vääjäämättä häviäisi loputtomien avaruusolentorivistöjen jyrätessä pelialueen yli.
+
+==Toteutus==
+[[Kuva:Space Invaders.JPG|left|thumb|Space Invadersin "pöytämalli"]]
+Yksi ''Space Invaders''in keskeisistä piirteistä oli, että mitä enemmän vihollisia tuhotaan, sitä nopeamin jäljelle jääneet liikkuvat. Hyökkäysaallon alussa nopeutus on pieni, mutta suurenee dramaattisesti loppua kohti. Toiminto oli alun perin suunnittelematon seuraus pelin ohjelmointitavasta – kun ohjelman piti liikutella harvempia vihollisia, se pystyi päivittämään näytön nopeammin – mutta  kehitystiimi päätti säilyttää piirteen.
+
+''Space Invaders''in keskusyksikkönä käytettiin 2 MHz:n [[Intel 8080]] -suoritinta. Grafiikka toteutettiin yhdellä pääsuorittimen muistiavaruudesta mapatulla bittitasolla. Äänitehosteet tuotettiin kukin erillisellä elektroniikalla.
+
+Pystyasentoon rakennetussa versiossa kuva näytettiin koteloon sijoitetun peilin kautta mustavalkonäytöstä. Kuva projisoitiin muovipaneeliin, jonka pelaaja näki. Heijastavan paneelin takana oli kuumaisema. Pystyasentoon rakennettuja pelejä oli kahta versiota: Taito Corporationin toteuttama malli, jossa ohjaus tapahtui [[joystick]]illa, sekä Bally Midwayn lisensoitu malli, jossa ohjaamiseen  käytettiin nappeja ja kuvitus oli japanilaisversiota heikkolaatuisempaa.
+
+Koska laitteisto tuotti yksiväristä kuvaa, Taito lisäsi värit päällystämällä heijastavan ruudun värillisillä nauhoilla. Pelin ensimmäinen Japanissa julkaistu pöytämalli oli kuitenkin grafiikaltaan mustavalkoinen. Pelistä on valmistettu myös versiota, jossa näyttölaitteisto tuottaa aidosti värillistä grafiikkaa.
+
+''Space Invaders''issa ei ollut laitteistoa [[satunnaisluku]]jen tuottamiseen, joten näennäisen satunnaiset [[UFO]]n tuhoamisesta saadut pistemäärät tuotettiin [[tiiviste]]algoritmilla perustuen pelaajan ampumien laukausten lukumäärään. Ennen pitkää kokeilijat havaitsivat, että suurimman pistemäärän bonus-avaruusaluksesta saa tuhoamalla sen 23. laukauksella, ja sen jälkeen 15 laukauksen välein. Pelin myöhemmissä versioissa tämä vika oli korjattu.
+
+Toinen tärkeä taktinen elementti pelissä on, etteivät viholliset voi ampua pelaajaa ollessaan ruudun alimmalla "rivillä".
+
+==Graafinen suunnittelu==
+Lokakuussa [[2005]] Nishikado kertoi englantilaisen Edge-pelilehden haastattelussa, että avaruusolentojen ulkonäkö perustui [[H. G. Wells]]in kuvaukseen klassisessa tieteisromaanissa ''[[Maailmojen sota]]'':
+
+:"Tarinassa muukalaiset näyttivät [[mustekala|mustekaloilta]]. Piirsin [[bittikartta]]kuvan tämän idean pohjalta. Sitten loin muita avaruusolentoja, jotka näyttivät muilta merieläimiltä kuten [[kalmari]] tai [[taskurapu]]."
+
+Nishikado huomautti myös, että hänen alkuperäinen aikomuksensa oli suunnitella peli, jossa viholliset olisivat lentokoneita, mutta se osoittautui teknisesti liian vaikeaksi toteuttaa. Hän vastusti ihmishahmoisten vihollisten käyttöä (mikä olisi ollut helpompaa), koska hän uskoi, että on "moraalisesti väärin" kuvata pelissä ihmisten ampumista.
+
+==Vaikutukset==
+Space Invadersin valtava suosio huomattiin viihdeteollisuudessa. Vuoden sisällä julkaisustaan peli oli tuottanut satoja miljoonia dollareita voittoa, josta suurin osa tuli nuorilta ja kouluikäisiltä lapsilta. [[Yhdysvallat|Yhdysvalloissa]] nuorten videopeli-innostus saavutti sellaiset mittasuhteet, että jotkut heistä kerjäsivät rahaa kaduilla, jotta voisivat jatkaa pelaamista.{{Lähde|16. syyskuuta 2008}}
+
+Ilmiö johti ensimmäisiin videopelien vastaisiin mielenilmauksiin, kun huolestuneet vanhemmat katsoivat videopelien vaikuttavan lapsiin haitallisesti. Space Invadersin tapauksessa ongelmana ei ollut niinkään sen abstrakti ja tyylitelty väkivalta, vaan se, ettei peliä voinut sanan perinteisessä merkityksessä "voittaa". Kriitikot huomauttivat, että pelaaja on voimaton ja voi ainoastaan viivyttää vääjäämätöntä tappiota. Heidän mielestään peli istutti nuoriin kyseenalaista ajattelutapaa ja vähensi kilpailullisuutta, minkä tarkoituksena oli ehkä haitata Yhdysvaltoja talouskilpailussaan Japania vastaan.{{kenen_mukaan}}
+
+Japanissa Space Invadersin suosio aiheutti kolikkopulan, kunnes liikkeellä olevien [[jeni]]en määrä nelinkertaistettiin[http://www.klov.com/game_detail.php?letter=&game_id=9662]. 
+
+Yksi Space Invadersin suosion syistä oli uudentyylinen pelitapa: sen julkaisuun saakka videopeleissä oli ollut kello, jonka puitteissa pelaaminen tapahtui. Peli loppui ajan (ja mahdollisen bonus-ajan) kuluttua umpeen. Space Invadersissa peli loppui vasta kolmen "elämän" kuluttua tai muukalaisten laskeuduttua ruudun alalaitaan. Pelaaja saattoi siis pelata niin kauan kuin taidot mahdollistivat.
+
+==Ennätystulos==
+Kirjan ''Stratford Video Gaming Records, 1980 Premiere Edition'' (s. 79) Canadian National Exhibition -tapahtumassa saatu ''Space Invaders''in ennätystulos on 1&nbsp;114&nbsp;020 pistettä, jonka pelasi kanadalainen 12-vuotias Eric Furrer.
+-->
+==Geahča maid==
+{{Commonscat}}
+*[http://www.gamevideovault.com?id=636 Space Invadersin luojan haastattelu] Gamer TV:ssä
+*[http://www.thedoteaters.com/p2_stage2.php artikkeli The Dot Eatersissa], johon kuuluu ''Space Invaders''in historia
+*[http://www.spaceinvaders.de The Space Invaders Shrine] - buot Space Invadersa birra, maid neahttaloganspeallu
+*[http://www.klov.com/game_detail.php?letter=S&game_id=9662 The Killer List of Video Games -siidu ''Space Invaders''as]
+*[http://www.arcade-history.com/?n=space-invaders&page=detail&id=2537 ''Space Invaders'' historjá]
+
+[[Category:Arkádaspealut]]
+
+{{Link FA|en}}
+
+{{Link GA|fr}}
+
+[[id:Space Invaders]]
+[[ca:Space Invaders]]
+[[da:Space Invaders (computerspil)]]
+[[de:Space Invaders]]
+[[el:Space Invaders]]
+[[en:Space Invaders]]
+[[es:Space Invaders]]
+[[fr:Space Invaders]]
+[[ko:스페이스 인베이더]]
+[[hr:Space Invaders]]
+[[it:Space Invaders]]
+[[he:פולשים מהחלל]]
+[[pam:Space Invaders]]
+[[nl:Space Invaders]]
+[[ja:スペースインベーダー]]
+[[pl:Space Invaders]]
+[[pt:Space Invaders]]
+[[ru:Space Invaders]]
+[[simple:Space Invaders]]
+[[sl:Space Invaders]]
+[[sr:Space Invaders]]
+[[sv:Space Invaders]]
+[[uk:Space Invaders]]
+[[zh:太空侵略者]]
