@@ -1,21 +1,21 @@
 '''Greikkalaš alfabehta''' leat alfabehta systema [[Greika]]s.
 	
 {|border="1" cellpadding="3" cellspacing="0" style="border-collapse: collapse;text-align:center"
-!rowspan="2" style="background:#ccf;"|Bustávva
-!rowspan="2" style="background:#ccf;"|Vástideaddji <br />[[Foinikialaš alfabehta|foinikialaš alfabehtas]]
-!colspan="4" style="background:#ccf;"|Namma
-!colspan="2" style="background:#ccf;"|Greikkagiela transliterašuvdna láhtenalfabehtii
-!colspan="2" style="background:#ccf;"|Jietnadeapmi
-!rowspan="2" style="background:#ccf;"|[[Greikkalaš numerálat|Numeralaš<br />árvu]]
+!rowspan="2" style="background:#f9f9f9;"|Bustávva
+!rowspan="2" style="background:#f9f9f9;"|Vástideaddji <br />[[Foinikialaš alfabehta|foinikialaš alfabehtas]]
+!colspan="4" style="background:#f9f9f9;"|Namma
+!colspan="2" style="background:#f9f9f9;"|Greikkagiela transliterašuvdna láhtenalfabehtii
+!colspan="2" style="background:#f9f9f9;"|Jietnadeapmi
+!rowspan="2" style="background:#f9f9f9;"|[[Greikkalaš numerálat|Numeralaš<br />árvu]]
 |-
-!style="background:#ccffff;"|Sámegiella
-!style="background:#ccffff;"|Dološgreikkagiella
-!style="background:#ccffff;"|Bysántalaš<br />greikkagiella<br />(polytonalaš)
-!style="background:#ccffff;"|Dála<br /> greikkagiella<br />
-!style="background:#ccffff;"|Dološgreikkagiella
-!style="background:#ccffff;"|Dála<br /> greikkagiella
-!style="background:#ccffff;"|Klassihkalaš<br />dološgreikkagiella
-!style="background:#ccffff;"|Dála<br />greikkagiella
+!style="background:#f9f9f9;"|Sámegiella
+!style="background:#f9f9f9;"|Dološgreikkagiella
+!style="background:#f9f9f9;"|Bysántalaš<br />greikkagiella<br />(polytonalaš)
+!style="background:#f9f9f9;"|Dála<br /> greikkagiella
+!style="background:#f9f9f9;"|Dološgreikkagiella
+!style="background:#f9f9f9;"|Dála<br /> greikkagiella
+!style="background:#f9f9f9;"|Klassihkalaš<br />dološgreikkagiella
+!style="background:#f9f9f9;"|Dála<br />greikkagiella
 |-
 |style="font-size:133%;"|Α α
 |[[File:Phoenician aleph.svg|20px|Aleph]] [[Aleph (bustávva)|ʼāleph]]
@@ -267,7 +267,74 @@
 |-
 |}
 
-[[Α]], [[Β]], [[Γ]], [[Δ]], [[Ε]], ([[Ϝ]]), ([[Ϛ]]), [[Ζ]], [[Η]], ([[Ͱ]]), [[Θ]], [[Ι]], [[Κ]], [[Λ]], [[Μ]], [[Ν]], [[Ξ]], [[Ο]], [[Π]], ([[Ϻ]]), ([[Ϸ]]), ([[Ϙ]]), [[Ρ]], [[Σ]], [[Τ]], [[Υ]], [[Φ]], [[Χ]], [[Ψ]], [[Ω]], ([[Ͳ]])
+
+{|border="1" cellpadding="3" cellspacing="0" style="border-collapse: collapse;text-align:center"
+!rowspan="2" style="background:#f9f9f9;"|Bustávva
+!colspan="3" style="background:#f9f9f9;"|Namma
+!rowspan="2" style="background:#f9f9f9;"|Greikkagiela transliterašuvdna láhtenalfabehtii
+!rowspan="2" style="background:#f9f9f9;"|Jietnadeapmi
+!rowspan="2" style="background:#f9f9f9;"|[[Greikkalaš numerálat|Numeralaš árvu]]
+|-
+!style="background:#f9f9f9;"|Sámegiella
+!style="background:#f9f9f9;"|Dološgreikkagiella
+!style="background:#f9f9f9;"|Dála<br /> greikkagiella
+|-
+|style="font-size:133%;"|Ϝ ϝ
+|[[Digamma (bustávva)|Digamma]]
+|ϝαῦ
+|δίγαμμα
+|w
+|{{IPA|[w]}}
+|6
+|-
+|style="font-size:133%;"|Ϛ ϛ
+|[[Stigma (bustávva)|Stigma]]
+|ϛῖγμα 
+|στῖγμα 
+|st
+|{{IPA|[st]}}
+|6
+|-
+|style="font-size:133%;"|Ͱ ͱ
+|[[Heta (bustávva)|Heta]]
+|ͱήτα
+|χήτα
+|h
+|{{IPA|[h]}}
+|8
+|-
+|style="font-size:133%;"|Ϻ ϻ
+|[[San (bustávva)|San]]
+|ϻάν
+|σάν
+|s
+|{{IPA|[s]}}
+|90
+|-
+|style="font-size:133%;"|Ϸ ϸ
+|[[Sho (bustávva)|Sho]]
+|ϸω
+|σχω
+|sh
+|{{IPA|[ʃː]}}
+|90
+|-
+|style="font-size:133%;"|Ϙ ϙ
+|[[Koppa (bustávva)|Koppa]]
+|ϙόππα
+|κόππα
+|q
+|{{IPA|[q]}}
+|90
+|-
+|style="font-size:133%;"|Ͳ ͳ
+|[[Disigma (bustávva)|Disigma]]
+|ͳαμπῖ
+|δίσιγμα
+|ss
+|{{IPA|[sː]}}, {{IPA|[ks]}}, {{IPA|[ts]}}
+|900
+|}
 
 [[Category:Greikkalaš alfabehta|*]]
 
