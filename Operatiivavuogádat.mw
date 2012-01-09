@@ -1,26 +1,330 @@
-'''Operatiivavuogádat''' lea vuosttaš prográmma mii biddjo dihtorii.
+'''Operatiivavuogádat''' lea vuosttaš prográmma mii biddjo dihtorii. '''Windows''' lea dábálaš operatiivavuogádat dihtor (~91%).
 [[File:GNU-Linux close-up.jpg|right|thumb|GNU ja Tux]]
 [[File:Tux.svg|right|thumb|Tux]]
-'''GNU/Linux''' (GNU/Linuxa)
+'''GNU/Linux''' (GNU/Linuxa) (~1-2%)
 [[File:Linux.ogg]]
 
 
 '''[[KDE]]''' čállinbeavdi gávdnot sámegillii [[Image:Sami flag.svg|23px]], sáhtát instalerejuvvot ja válljet sámegillii Kubuntu GNU/Linuxa distribušuvnna. 
 [[File:Kubuntu 10.10 Maverick Meerkat KDE 4.5.1 Northern Sami.png|300px|Kubuntu 10.10 KDE 4.5.1 davvisámegiella]]
 
+'''Portable Ubuntu Remix''' Version 4 slimLZM2 U10.4 (Ubuntu 10.04 LTS) lea almmustahttit. Portable Ubuntu Remix birgekeahttá instalerejuvvo USB-ovttadagaid ja garraskearru ja vuodjit Ubuntu juste dego Windows prográmmait. Ubuntu gávdnot 29 dievas giella. Ubuntu lea GNU/Linuxa ja Unix-lágan operatiivavuogádagain. 
 
+'''Wubi''' 11.10 lea almmustahttit. Wubi birgekeahttá instalerejuvvo ja váldit eret juste dego Windows prográmmait. Kubuntu gávdnot sámegillii.<ref>[http://www.facebook.com/group.php?gid=88711497100 SAMIX programvara]</ref>
+
+== Unix-lágan operatiivavuogádagain ==
+'''Linux''' (Android), '''GNU''' (Debian GNU/Hurd), '''GNU/Linux''' (Skuvlalinux (Skolelinux), [[KDE|Kubuntu]], Ubuntu, Linux Mint, Fedora, Debian GNU/Linux, openSUSE, Arch Linux, PCLinuxOS, CentOS, Mageia, Slackware Linux), '''BSD''' (PC-BSD, FreeBSD, OpenBSD, NetBSD, DragonFly BSD) lea Unix-lágan operatiivavuogádagain.
+
+== Unix operatiivavuogádagain ==
+Solaris, HP-UX and AIX lea Unix operatiivavuogádagain.
 
 [[File:Microsoft wordmark.svg|150px|Microsoft]]
 [[File:Microsoft Windows 7 wordmark.svg|150px|Maŋimus Windows-veršuvnna]]
 
-Maŋimus Windows-veršuvnna
+Windows 7 lea maŋimus Windows-veršuvnna.
 
+Windows 8 Developer Preview (build 8102) lea maŋimus ovdánahttit Windows-veršuvnna.
 
-
-'''Mac OS X Snow Leopard'''
+'''Mac OS X''' (~4-5%)
 
 [[File:2010-01-21 MacBook Pro Mac OS X Snow Leopard with Earth background.jpg|300px|Mac OS X Snow Leopard]]
+Mac OS X Snow Leopard govva.
 
+Mac OS X v10.7 maŋimus Mac OS X-veršuvnna.
+
+<timeline>
+ImageSize = width:960 height:800
+PlotArea = left:40 right:10 bottom:20 top:10
+
+DateFormat = yyyy
+Period = from:1965 till:2012
+TimeAxis = orientation:ver
+ScaleMajor = unit:year increment:5 start:1965
+PlotData=
+  bar:DOS color:red width:25 mark:(line,red) align:left fontsize:M
+  at:1981 text:"[[MS-DOS]] 1.0"
+  at:1983 text:"[[MS-DOS]] 2.0"
+  at:1987 text:"[[Concurrent DOS]]"
+  at:1990 text:"[[DR DOS]] 5.0"
+  at:1991 text:"[[MS-DOS]] 5.0"
+  at:1994 text:"[[PC-DOS]] 6.3"
+  at:1997 text:"[[MS-DOS]] 7.1"
+  at:2006 text:"[[FreeDOS]] 1.0"
+
+  bar:Windows color:red width:25 mark:(line,red) align:left fontsize:M
+  at:1985 text:"[[Windows]] 1.0"
+  at:1987 text:"[[Windows]] 2.0"
+  at:1992 text:"[[Windows]] 3.1"
+  at:1993 text:"[[Windows NT|Windows NT 3.1]]"
+  at:1994 text:"[[Windows NT|Windows NT 3.51]]"
+  at:1995 text:"[[Windows 95]]"
+  at:1996 text:"[[Windows NT|Windows NT 4]]"
+  at:1998 text:"[[Windows 98]]"
+  at:2000 text:"[[Windows 2000]]"
+  at:2000 text:"[[Windows ME]]"
+  at:2001 text:"[[Windows XP]]"
+  at:2003 text:"[[Windows 2003]]"
+  at:2004 text:"[[Windows XP#Service Pack 2|Windows XP SP2]]"
+  at:2006 text:"[[Windows Vista]]"
+  at:2009 text:"[[Windows 7]]"
+
+  bar:Apple color:red width:25 mark:(line,red) align:left fontsize:M
+  at:1978 text:"[[Apple DOS]] 3.1"
+  at:1983 text:"[[Lisa OS]]"
+  at:1984 text:"[[Mac System]] 1"
+  at:1990 text:"[[Mac System]] 7"
+  at:1997 text:"[[Mac OS]] 8"
+  at:1998 text:"[[Darwin (operativsystem)|Darwin]] 0.1"
+  at:1999 text:"[[Mac OS]] 9"
+  at:2000 text:"[[Mac OS X]] Beta [[BSD]]"
+  at:2001 text:"[[Mac OS X]] 10.0 [[BSD]]"
+  at:2002 text:"[[Mac OS X]] 10.2 [[BSD]]"
+  at:2003 text:"[[Mac OS X]] 10.3 [[BSD]]"
+  at:2005 text:"[[Mac OS X]] 10.4 [[BSD]]"
+  at:2007 text:"[[Mac OS X]] 10.5 [[BSD]]"
+  at:2009 text:"[[Mac OS X]] 10.6 [[BSD]]"
+  at:2011 text:"[[Mac OS X]] 10.7 [[BSD]]"
+
+  bar:UNIX/UNIX-lika color:red width:25 mark:(line,red) align:left fontsize:M
+  at:1969 text:"[[UNICS]]"
+  at:1971 text:"[[UNIX]] V1"
+  at:1972 text:"[[UNIX]] V2"
+  at:1973 text:"[[UNIX]] V3 & V4"
+  at:1974 text:"[[UNIX]] V5"
+  at:1976 text:"[[UNIX]] V6"
+  at:1977 text:"[[Eunice]]"
+  at:1978 text:"USG 2.0"
+  at:1979 text:"[[UNIX]] V7"
+  at:1980 text:"XENIX OS"
+  at:1981 text:"[[Unix System III]]"
+  at:1982 text:"[[SunOS]] 1.0"
+  at:1983 text:"[[Unix System V]]"
+  at:1984 text:"[[QNX]]"
+  at:1985 text:"[[UNIX]] V8"
+  at:1986 text:"[[Plan 9]]"
+  at:1987 text:"[[Minix]] 1.0"
+  at:1988 text:"[[HP-UX]] 2.0"
+  at:1989 text:"[[NeXTSTEP]] 1.0"
+  at:1990 text:"[[Solaris]] 1"
+  at:1991 text:"[[GNU/Hurd]]"
+  at:1992 text:"[[Ultrix]] 4.3"
+  at:1993 text:"[[Irix]] 5.3"
+  at:1994 text:"[[AIX]] 4.1"
+  at:1995 text:"[[UNIX|Unix Ware]] 2.0"
+  at:1996 text:"[[Mach]]4 UK22"
+  at:1997 text:"[[OPENSTEP]] 4.2"
+  at:1998 text:"[[Unix System V|Unix Ware]] 7"
+  at:1999 text:"[[UNIX|Unix Ware]] 7.1"
+  at:2000 text:"[[UNIX|Unix Ware]] 7.1.1"
+  at:2001 text:"[[AIX]] 5.1"
+  at:2002 text:"[[Solaris]] 8"
+  at:2003 text:"[[Minix]] 2.0.4"
+  at:2004 text:"[[UNIX|Unix Ware]] 7.1.4"
+  at:2005 text:"[[Solaris]] 10"
+  at:2007 text:"[[AIX]] 6.1"
+
+  bar:[[BSD]] color:red width:25 mark:(line,red) align:left fontsize:M
+  at:1978 text:"[[BSD|1 BSD]]"
+  at:1979 text:"[[BSD|2 BSD]]"
+  at:1980 text:"[[BSD|4.0 BSD]]"
+  at:1981 text:"[[BSD|4.1 BSD]]"
+  at:1982 text:"[[BSD|2.8.1 BSD]]"
+  at:1983 text:"[[BSD|4.2 BSD]]"
+  at:1985 text:"[[BSD|2.9 BSD]]-Siscmo"
+  at:1986 text:"[[BSD|4.3 BSD]]"
+  at:1987 text:"[[BSD|2.10 BSD]]"
+  at:1988 text:"[[BSD|4.3 BSD]] Tahoe"
+  at:1989 text:"[[BSD|2.10.1 BSD]]"
+  at:1990 text:"[[BSD|4.3 BSD]] Reno"
+  at:1992 text:"[[BSD|386 BSD]]"
+  at:1993 text:"[[FreeBSD]] 1.0"
+  at:1994 text:"[[NetBSD]] 1.0"
+  at:1995 text:"[[OpenBSD]] 1.0"
+  at:1997 text:"[[BSD]]/OS 3.0"
+  at:1998 text:"[[BSD|4.4 BSD]] Lite 2"
+  at:2000 text:"[[FreeBSD]] 4.0"
+  at:2001 text:"[[OpenBSD]] 3.0"
+  at:2003 text:"[[FreeBSD]] 5.0"
+  at:2004 text:"[[DragonFly BSD]] 1.0"
+  at:2006 text:"[[FreeBSD]] 6.1"
+  at:2007 text:"[[OpenBSD]] 4.1"
+  
+
+  bar:GNU/Linux color:red width:25 mark:(line,red) align:left fontsize:M
+  at:1991 text:"[[Linux]] 0.01"
+  at:1994 text:"[[Linux]] 1.1.0"
+  at:1995 text:"[[Linux]] 1.3.0"
+  at:1996 text:"[[Linux]] 2.0"
+  at:1997 text:"[[Linux]] 2.0.28"
+  at:1998 text:"[[Linux]] 2.0.34"
+  at:1999 text:"[[Linux]] 2.2.0"
+  at:2000 text:"[[Linux]] 2.2.14"
+  at:2001 text:"[[Linux]] 2.4.0"
+  at:2002 text:"[[Linux]] 2.4.18"
+  at:2003 text:"[[Linux]] 2.6.0"
+  at:2004 text:"[[Linux]] 2.6.1"
+  at:2005 text:"[[Linux]] 2.6.11"
+  at:2006 text:"[[Linux]] 2.6.15"
+  at:2007 text:"[[Linux]] 2.6.20"
+  at:2008 text:"[[Linux]] 2.6.24"
+  at:2009 text:"[[Linux"]] 2.6.29"
+  at:2010 text:"[[Linux"]] 2.6.33"
+  at:2011 text:"[[Linux"]] 3.0"
+
+
+  bar:Övriga color:red width:25 mark:(line,red) align:left fontsize:M
+  at:1969 text:"[[Multics]]"
+  at:1975 text:"[[DEC Starlet]]"
+  at:1976 text:"[[CP/M]]"
+  at:1980 text:"[[OpenVMS|VMS]]"
+  at:1981 text:"[[Xerox Star]]"
+  at:1985 text:"[[AmigaOS]]"
+  at:1987 text:"[[OS/2]] 1.0"
+  at:1988 text:"[[VMS]] 5.0"
+  at:1990 text:"[[BeOS]] 1.0"
+  at:1991 text:"[[OpenVMS|VMS]] blir [[OpenVMS]]"
+  at:1993 text:"[[OpenVMS]] 6.0"
+  at:1994 text:"[[OS/2 Warp]] 3.0"
+  at:1995 text:"[[OpenVMS]] 7.0"
+  at:1996 text:"[[OS/2 Warp]] 4.0"
+  at:2001 text:"[[eComStation]] 1.0"
+  at:2003 text:"[[OpenVMS]] 8.0"
+  at:2006 text:"[[OpenVMS]] 8.3"
+  at:2007 text:"[[Syllable]] 0.6.3"
+  at:2008 text:"[[i5/OS | i]] 6.1"
+</timeline>
+
+== DOS ==
+MS-DOS lea boaris vuogádat. PC-DOS, DR-DOS, FreeDOS, PTS-DOS, ROM-DOS, Novell DOS, OpenDOS, AmigaDOS, AMSDOS, ANDOS, Apple DOS, Atari DOS, Commodore DOS, CSI-DOS, ProDOS, and TRS-DOS lea DOS-lágan operatiivavuogádagain
+
+== Lasi diehtu ==
+* [[KDE]]
+* [[Fierpmádatlogan]]
+
+== Gálddut ==
+<references/>
 
 == Liŋka ==
 * [http://home.online.no/~sveilund/data/linux05s.pdf Linuxgirji v. 0.5 Sámi - PDF]
+
+[[ace:OS]]
+[[af:Bedryfstelsel (inligtingstegnologie)]]
+[[als:Betriebssystem]]
+[[am:የሲስተም አሰሪ]]
+[[ar:نظام تشغيل]]
+[[an:Sistema operativo]]
+[[ast:Sistema operativu]]
+[[az:Əməliyyat sistemləri]]
+[[bn:অপারেটিং সিস্টেম]]
+[[zh-min-nan:Chok-gia̍p hē-thóng]]
+[[ba:Операцион система]]
+[[be:Аперацыйная сістэма]]
+[[be-x-old:Апэрацыйная сыстэма]]
+[[bg:Операционна система]]
+[[bs:Operativni sistem]]
+[[br:Reizhiad korvoiñ]]
+[[ca:Sistema operatiu]]
+[[cv:Операци системи]]
+[[cs:Operační systém]]
+[[cy:System weithredu]]
+[[da:Styresystem]]
+[[de:Betriebssystem]]
+[[et:Operatsioonisüsteem]]
+[[el:Λειτουργικό σύστημα]]
+[[en:Operating system]]
+[[es:Sistema operativo]]
+[[eo:Operaciumo]]
+[[eu:Sistema eragile]]
+[[fa:سیستم‌عامل]]
+[[fr:Système d'exploitation]]
+[[fur:Sisteme operatîf]]
+[[ga:Córas oibriúcháin]]
+[[gl:Sistema operativo]]
+[[ko:운영 체제]]
+[[hy:Օպերացիոն համակարգ]]
+[[hi:प्रचालन तन्त्र]]
+[[hsb:Dźěłowy system]]
+[[hr:Operacijski sustav]]
+[[io:Funcionanta sistemo]]
+[[ilo:Sistema ti panangpaandar]]
+[[id:Sistem operasi]]
+[[ia:Systema de operation]]
+[[is:Stýrikerfi]]
+[[it:Sistema operativo]]
+[[he:מערכת הפעלה]]
+[[jv:Sistem operasi komputer]]
+[[kn:ಕಾರ್ಯನಿರ್ವಹಣ ಸಾಧನ]]
+[[ka:ოპერაციული სისტემა]]
+[[csb:Òperacjowô systema]]
+[[kk:Операциялық жүйелер]]
+[[sw:Mfumo wa uendeshaji]]
+[[ku:Pergala xebitandinê]]
+[[lo:ລະບົບປະຕິບັດການ]]
+[[la:Systema administrativum computatrale]]
+[[lv:Operētājsistēma]]
+[[lb:Betribssystem (Computer)]]
+[[lt:Operacinė sistema]]
+[[ln:Litámbwisi-mokonzi]]
+[[lmo:Sistema uperatif]]
+[[hu:Operációs rendszer]]
+[[mk:Оперативен систем]]
+[[mg:Mpandrindra milina]]
+[[ml:ഓപ്പറേറ്റിങ്ങ്‌ സിസ്റ്റം]]
+[[mr:संचालन प्रणाली]]
+[[arz:نظام تشغيل]]
+[[ms:Sistem pengendalian]]
+[[mn:Үйлдлийн систем]]
+[[my:ကွန်ပျူတာ စက်လည်ပတ်ရေး စနစ်]]
+[[nl:Besturingssysteem]]
+[[new:अपरेटिङ सिस्टम]]
+[[ja:オペレーティングシステム]]
+[[no:Operativsystem]]
+[[nn:Operativsystem]]
+[[oc:Sistèma operatiu]]
+[[mhr:Операционло системе]]
+[[or:ଅପରେଟିଂ ସିଷ୍ଟମ]]
+[[uz:Ishlatuv tizimi]]
+[[pnb:اوپریٹنگ سسٹم]]
+[[nds:Bedriefssystem]]
+[[pl:System operacyjny]]
+[[pt:Sistema operativo]]
+[[kaa:Operatsion sistema]]
+[[ksh:Bedriefsystem]]
+[[ro:Sistem de operare]]
+[[qu:Llamk'aykuna llika]]
+[[rue:Операчна сістема]]
+[[ru:Операционная система]]
+[[sah:Операциялыыр система]]
+[[sq:Sistemi operativ]]
+[[si:පරිගණක මෙහෙයුම් පද්ධති]]
+[[simple:Operating system]]
+[[sk:Operačný systém]]
+[[sl:Operacijski sistem]]
+[[sv:Operativsystem]]
+[[ckb:سیستەمی کار]]
+[[sr:Оперативни систем]]
+[[sh:Operativni sistem]]
+[[su:Sistim Operasi]]
+[[fi:Käyttöjärjestelmä]]
+[[tl:Sistemang operatibo]]
+[[ta:இயக்கு தளம்]]
+[[kab:A nagraw n w'ammud]]
+[[tt:Операцион система]]
+[[te:ఆపరేటింగ్ సిస్టమ్]]
+[[th:ระบบปฏิบัติการ]]
+[[tg:Системаи амалӣ]]
+[[tr:İşletim sistemi]]
+[[uk:Операційна система]]
+[[ur:اشتغالی نظام]]
+[[vec:Sistema operativo]]
+[[vi:Hệ điều hành]]
+[[fiu-vro:Opõrats'oonisüstem]]
+[[wa:Sistinme d' operance]]
+[[war:Sistema operatibo]]
+[[wo:Nosteg doxiin]]
+[[yi:אפערירן סיסטעם]]
+[[yo:Sístẹ̀mù ìṣiṣẹ́ kọ̀mpútà]]
+[[zh-yue:作業系統]]
+[[diq:Sistemo operatif]]
+[[bat-smg:Uoperacėnė sėstema]]
+[[zh:操作系统]]
